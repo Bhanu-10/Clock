@@ -1,2 +1,2 @@
 # Clock
-Created with CodeSandbox
+Real Time clock using React
